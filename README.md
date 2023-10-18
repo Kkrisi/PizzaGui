@@ -1,1 +1,1 @@
-"# PizzaGui (K d r Krist¢f)"  
+"# PizzaGui (Kadar Kristof)"  
